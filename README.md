@@ -6,6 +6,8 @@
 
 [![Release](https://img.shields.io/badge/v1.0.0-blue?label=Release&color=blue)](https://github.com/liuzhaomax/nankai-clock-tower-release/releases)
 
+> 大家有什么想交流的，可以提issue
+
 **亮点**：
 + 取代说书人角色，所有线下小伙伴都可以深度参与解谜
 + 全程无需闭眼，不会有长时间的闭目养神和睁眼闭眼过程
